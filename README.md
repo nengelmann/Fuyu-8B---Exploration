@@ -126,3 +126,8 @@ This is **not** a **cherry-picked** example. \
 **Opinion**: \
 Fair enough, actually I'd have expected more the objects side (cloud, sun, ship).
 
+
+## Result
+
+Overall the model didn't perform very well on the given examples. \
+However there can be really good results with the right prompts. Also the model was used as is and fine tuning on a specific use case could push the performance by a lot, so the model has a good potential.
