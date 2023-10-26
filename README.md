@@ -2,7 +2,7 @@
 Exploration of the multi modal fuyu-8b model of Adept. 🤓 🔍
 
 
-_TODO:_ Try yourself in colab! \
+Try yourself in colab! \
 <a href="https://colab.research.google.com/github/nengelmann/Fuyu-8B---Exploration/blob/main/Fuyu_8B_Exploration.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
